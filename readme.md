@@ -71,16 +71,7 @@ Hey! My name is Nolan also known as Muffiny, I was diagnosed with Autism about 3
 <div align='left' id="contact">
 <ul>
 
-<li>
-<a href="https://instagram.com/CorwinDev" target="_blank">
-<img src="https://img.shields.io/badge/instagram:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
+
 <br>
-<li>
-<a href="https://www.linkedin.com/in/corwindev/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:CorwinDev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
 </ul>
 </div>
