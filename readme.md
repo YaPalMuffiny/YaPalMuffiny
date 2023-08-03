@@ -15,11 +15,11 @@
 <br>
 
 
-- Corwin van Velthuizen (**CorwinDev**)
+- YaPalMuffiny
 ---
 <br><br>
-
-I am a full stack developer. I have experience with PHP, JAVA, JS, HTML, TS, Python, C but I'm always willing to learn new things! I am 17 years old and I live in the Netherlands. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via<a href="#contact">  below links! </a>
+Hey! My name is Nolan also known as Muffiny, I was diagnosed with Autism about 3 years ago when I attempted to start my YouTube Channel(which obviously failed). You won't see me do the same type of content so you guys could tell me what your interested in me doing! Thank you to everyone who helped me with this.
+</a>
 <br><br>
 
 <a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
