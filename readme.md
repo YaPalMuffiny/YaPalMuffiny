@@ -22,7 +22,7 @@ Hey! My name is Nolan also known as Muffiny, I was diagnosed with Autism about 3
 </a>
 <br><br>
 
-<a href="https://discord.com/channels/@me/755297485328482356"> <img src="https://discord.c99.nl/widget/theme-2/755297485328482356.png" alt="contact mee">
+<a href="https://discord.com/channels/@me/764868946523324457"> <img src="https://discord.c99.nl/widget/theme-2/764868946523324457.png" alt="contact mee">
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
