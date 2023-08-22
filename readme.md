@@ -66,7 +66,6 @@ Hey! My name is Nolan also known as Muffiny, I was diagnosed with Autism about 3
 </div>
 
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="35"><b> Let's Connect..!</b>
 <br>
 <div align='left' id="contact">
 <ul>
