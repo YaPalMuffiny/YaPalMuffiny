@@ -70,7 +70,7 @@ Hey! My name is Nolan also known as Muffiny, I was diagnosed with Autism about 3
 <div align='left' id="contact">
 <ul>
 
-
+<h5>all creds go to Corwin!<h5>
 <br>
 </ul>
 </div>
