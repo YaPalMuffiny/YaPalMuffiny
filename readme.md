@@ -18,7 +18,7 @@
 - YaPalMuffiny
 ---
 <br><br>
-Hey! My name is Nolan also known as Muffiny, I was diagnosed with Autism about 3 years ago when I attempted to start my YouTube Channel(which obviously failed). You won't see me do the same type of content so you guys could tell me what your interested in me doing! Thank you to everyone who helped me with this.
+i do developer stuff
 </a>
 <br><br>
 
